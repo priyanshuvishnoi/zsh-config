@@ -7,7 +7,7 @@ mkdir $HOME/.zsh
 echo "Copying config files..."
 cp .p10k.zsh $HOME/.zsh/
 cp .zshrc $HOME/.zsh/
-cp .zsh_history $HOME/.zsh/
+# cp .zsh_history $HOME/.zsh/
 
 echo "Getting required packages..."
 cd $HOME/.zsh
